@@ -1,0 +1,4 @@
+# any files or directories in this file will be ignored by git
+# put things in here that you don't want to push to GitHub
+
+node_modules
